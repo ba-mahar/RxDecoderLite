@@ -3,3 +3,5 @@ transformers
 pdfplumber
 torch
 Pillow
+pytesseract
+opencv-python
